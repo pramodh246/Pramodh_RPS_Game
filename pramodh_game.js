@@ -1,6 +1,6 @@
-const ps = require("prompt-sync");
+// const ps = require("prompt-sync");
 
-const prompt = ps();
+// const prompt = ps();
 
 function computerPlay() {
   let computer;
